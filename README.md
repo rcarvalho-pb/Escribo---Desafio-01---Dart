@@ -1,2 +1,5 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+1 -> Clonar repositório
+2 -> Entrar na pasta do projeto
+3 -> no terminal, entrar com o comando "dart run"
+
+O programa funciona lendo o arquivo "input.txt" localizado na pasta raiz do projeto. Para fazer o teste, basta alterar esse arquivo. Os números devem estar dispostos no formato de um número por linha, como o arquivo de exemplo ja presente na pasta.
